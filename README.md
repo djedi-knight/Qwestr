@@ -33,6 +33,7 @@ Here's a list of some changes that would help improve the app:
 - Tracking how many times a repeatable qwest has been completed
 - Creation of a qwest description field and WYSIWYG editor for the field
 - General code cleanup
+- Documentation is always welcome!
 
 ## License
 
